@@ -40,14 +40,6 @@ After installing npm packages, the application will be invoked by using the foll
 npm start
 ```
 
-#### Walkthrough Video
-
-[Click to view demo!](videolink)
-
-#### Insomnia Screenshot
-
-![Screenshot](screenshotlink)
-
 ## License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br>
